@@ -46,4 +46,3 @@ sudo grep -i -a -B10 -A10 $searchstring $partition
 
 But here's where I ran into a problem. Whatever I was searching from that was recovered somehow corrupted my data...so...I'm going to use my backup now. I did see some of my file there but it was a very large file so I'm going to go and just restore the backup and work off that.
 
-And at this point I noticed I had a number of instances of chrony running and "ischat" at the end of my SSH connection. If you see that on your system, better investigate why that is happening.
